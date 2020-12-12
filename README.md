@@ -79,7 +79,7 @@ body {
 
 ## Options
 
-Here's a list of the properties and what they are used for. The **default** values are **bold**
+A list of the properties and what they are used for. The **default** values are **bold**
 
 ```
 <vue-gradient :colors="colors" 
@@ -101,7 +101,7 @@ Here's a list of the properties and what they are used for. The **default** valu
 | middle-color-opaquer | **-0.75** (Number) 0 ... -1 | Opacity level for `color_middle`, **if no color_middle was set**.  [docs](https://github.com/Qix-/color#readme) |
 | colors (required) | Array with color objects  | **Animated** If the color data is changed, the new color setting will be animated in. See below |
 
-####Color object options:
+#### Color object options:
 
 | Property | Type | Description | 
 | -----| --- | ------------|
